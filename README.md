@@ -1,4 +1,4 @@
-<im>sfondo linke.jpg </img>
+<img>sfondo linke.jpg </img>
 
 
 
