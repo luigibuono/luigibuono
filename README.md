@@ -1,6 +1,5 @@
-<img src= "sfondo linke.jpg" </img>
 
-
+![img(sfondo linke.jpg)
 
 - 👋 Hi, I’m @luigibuono
 - 👀 I am interested in working as a web developer
