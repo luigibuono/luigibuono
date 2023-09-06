@@ -1,5 +1,4 @@
-
-![img("sfondo linke.jpg")
+https://github.com/luigibuono/luigibuono/blob/ce90d56b89a4dcad1f365c0e8b47abab85901230/sfondo%20linke.jpg
 
 - 👋 Hi, I’m @luigibuono
 - 👀 I am interested in working as a web developer
