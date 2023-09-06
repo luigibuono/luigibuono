@@ -1,5 +1,5 @@
 
-![img(sfondo linke.jpg)
+![img("sfondo linke.jpg")
 
 - 👋 Hi, I’m @luigibuono
 - 👀 I am interested in working as a web developer
