@@ -6,13 +6,13 @@
 <h2>Take a look at the applications I created:</h2> <br>
 
 - <h4>Personal WebSite</h4> https://luigibuono.github.io/My-Personal-WebSite/ <br>
-- https://counterluigibuono.netlify.app/  <br>
-- https://javascritpadvanced.netlify.app/  <br>
-- https://firstprojectangular1.netlify.app/  <br>
-- https://jovial-malasada-91ccbd.netlify.app/  <br>
-- https://github.com/luigibuono/ProgettoMEAN  <br>
-- https://luigibuono.github.io/Calculator-JS/  <br>
-- https://sweet-gingersnap-557604.netlify.app/home  <br>
+- <h4>Counter JS</h4> https://counterluigibuono.netlify.app/  <br>
+- <h4>LifeQuality city application </h4> https://javascritpadvanced.netlify.app/  <br>
+- <h4>Management software for NTT-DATA  </h4> https://firstprojectangular1.netlify.app/  <br>
+- <h4>Management Hacking News </h4>https://jovial-malasada-91ccbd.netlify.app/  <br>
+- <h4>Food E-commerce </h4>https://github.com/luigibuono/ProgettoMEAN  <br>
+- <h4>Calculator JS</h4> https://luigibuono.github.io/Calculator-JS/  <br>
+- <h4>E-commerce</h4>https://sweet-gingersnap-557604.netlify.app/home  <br>
 
 
 - 👀 I am interested in working as a web developer
