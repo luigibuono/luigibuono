@@ -3,6 +3,16 @@
 
 
 <img src="https://github.com/luigibuono/luigibuono/blob/ce90d56b89a4dcad1f365c0e8b47abab85901230/sfondo%20linke.jpg" alt="Descrizione dell'immagine" width="100%">
+<h2>Take a look at the applications I created:</h2> <br>
+
+- <h4>Personal WebSite</h4> https://luigibuono.github.io/My-Personal-WebSite/ <br>
+- https://counterluigibuono.netlify.app/  <br>
+- https://javascritpadvanced.netlify.app/  <br>
+- https://firstprojectangular1.netlify.app/  <br>
+- https://jovial-malasada-91ccbd.netlify.app/  <br>
+- https://github.com/luigibuono/ProgettoMEAN  <br>
+- https://luigibuono.github.io/Calculator-JS/  <br>
+- https://sweet-gingersnap-557604.netlify.app/home  <br>
 
 
 - 👀 I am interested in working as a web developer
