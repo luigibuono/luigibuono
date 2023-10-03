@@ -7,7 +7,7 @@
 
 - 👀 I am interested in working as a web developer
 
-
+-Take a look at the applications I created:
 
 
 - 📫 to contact me you can use my email contact, or my linkedin profile
