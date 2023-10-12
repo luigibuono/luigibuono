@@ -25,6 +25,9 @@ it's true, sometimes or almost always during creation we find ourselves faced wi
 
 - 📫 to contact me you can use my email contact, or my linkedin profile
 - ## 🌐 Socials:
+- <h3>You can view my Linkedin profile, contact me if:
+-You have a job offer for me
+-You want to start a collaboration</h3> <br>
 <p align="left">
 <a href="https://www.linkedin.com/in/luigi-buono-334b73258/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luigi buono" height="30" width="40" /></a>
 
