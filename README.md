@@ -5,7 +5,7 @@ it's true, sometimes or almost always during creation we find ourselves faced wi
 
 <img src="https://github.com/luigibuono/luigibuono/blob/ce90d56b89a4dcad1f365c0e8b47abab85901230/sfondo%20linke.jpg" alt="Descrizione dell'immagine" width="100%">
 <h2>Take a look at the applications I created:</h2> <br>
-- <h4>LB Technologies</h4> https://lb-technologies.netlify.app/ <br>
+  <h4>LB Technologies | HTML-TAILWINDCSS-JS-AOS |</h4> https://lb-technologies.netlify.app/ <br>
 - <h4>Personal WebSite</h4> https://luigibuono.github.io/My-Personal-WebSite/ <br>
 - <h4>Counter JS</h4> https://counterluigibuono.netlify.app/  <br>
 - <h4>LifeQuality city application </h4> https://javascritpadvanced.netlify.app/  <br>
