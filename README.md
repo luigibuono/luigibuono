@@ -5,7 +5,8 @@ it's true, sometimes or almost always during creation we find ourselves faced wi
 
 <img src="https://github.com/luigibuono/luigibuono/blob/ce90d56b89a4dcad1f365c0e8b47abab85901230/sfondo%20linke.jpg" alt="Descrizione dell'immagine" width="100%">
 <h2>Take a look at the applications I created:</h2> <br>
-  <h4>LB Technologies | HTML-TAILWINDCSS-JS-AOS |</h4> https://lb-technologies.netlify.app/ <br>
+
+  <h4>LB Technologies | HTML-TAILWINDCSS-JS-AOS | Look at the code:  https://github.com/luigibuono/LB-Technologies.git </h4> https://lb-technologies.netlify.app/ <br>
 
 
 - 👀 This is just an intro of my various projects carried out, there are many others where you can clone them and try them locally!
