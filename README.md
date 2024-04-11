@@ -8,7 +8,7 @@ it's true, sometimes or almost always during creation we find ourselves faced wi
 
   <h4>LB Technologies | HTML-TAILWINDCSS-JS-AOS | Look at the code:  https://github.com/luigibuono/LB-Technologies.git </h4><b> VISIT THE SITE :</b>https://lb-technologies.netlify.app/ <br><br>
 
-  <h4>Cyber Sentinel | ANGULAR-TAILWINDCSS & credit for https://mambaui.com/ | Look at the code:  https://github.com/luigibuono/Cyber-Sentinel </h4><h4><b> VISIT THE SITE :</b>https://cyber-sentinel.netlify.app/</h4><br><br>
+<h4>Cyber Sentinel | ANGULAR-TAILWINDCSS & credit for https://mambaui.com/ | Look at the code:  https://github.com/luigibuono/Cyber-Sentinel </h4><h4><b> VISIT THE SITE :</b>https://cyber-sentinel.netlify.app/</h4><br><br>
 
 
 - 👀 This is just an intro of my various projects carried out, there are many others where you can clone them and try them locally!
