@@ -7,10 +7,10 @@ it's true, sometimes or almost always during creation we find ourselves faced wi
 <h2>Take a look at the applications I created:
 <br>
 
-<h2>1LB Technologies | HTML-TAILWINDCSS-JS-AOS | Look at the code:  https://github.com/luigibuono/LB-Technologies.git </h2><b> VISIT THE SITE :</b>https://lb-technologies.netlify.app/<hr> 
+<h2>1:  LB Technologies | HTML-TAILWINDCSS-JS-AOS | Look at the code:  https://github.com/luigibuono/LB-Technologies.git </h2><b> VISIT THE SITE :</b>https://lb-technologies.netlify.app/<hr> 
 
 
-<h2>2</h2><h4>Cyber Sentinel | ANGULAR-TAILWINDCSS & credit for https://mambaui.com/ | Look at the code:  https://github.com/luigibuono/Cyber-Sentinel </h4><h4><b> VISIT THE SITE :</b>https://cyber-sentinel.netlify.app/</h4><hr>
+<h2>2:  Cyber Sentinel | ANGULAR-TAILWINDCSS & credit for https://mambaui.com/ | Look at the code:  https://github.com/luigibuono/Cyber-Sentinel </h2><h4><b> VISIT THE SITE :</b>https://cyber-sentinel.netlify.app/</h4><hr>
 
 
 
