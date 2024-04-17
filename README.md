@@ -13,6 +13,11 @@ it's true, sometimes or almost always during creation we find ourselves faced wi
 <h2>2:  Cyber Sentinel | ANGULAR-TAILWINDCSS & credit for https://mambaui.com/ | Look at the code:  https://github.com/luigibuono/Cyber-Sentinel </h2><h4><b> VISIT THE SITE :</b>https://cyber-sentinel.netlify.app/</h4><hr>
 
 
+<h2>2:  LB Portfolio | ANGULAR-TAILWINDCSS | Look at the code:  https://github.com/luigibuono/Portfolio-LB.git </h2><h4><b> VISIT THE SITE :</b>About
+https://luigibuono.netlify.app/</h4><hr>
+
+
+
 
 - 👀 This is just an intro of my various projects carried out, there are many others where you can clone them and try them locally!
 
