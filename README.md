@@ -25,6 +25,9 @@ https://lb-communityhub.netlify.app/ </h4><hr>
 https://lb-playpark.netlify.app/ </h4><hr>
 
 
+<h2>6:  E-commerce Food| MEAN(MONGODB-EXPRESS-ANGULAR-NODE)| Look at the code:  https://github.com/luigibuono/E-commerce-Food.git </h2><h4><b> VISIT THE SITE :</b>
+[https://lb-playpark.netlify.app/ ](https://foodmine-yjri.onrender.com/ </h4><hr>
+
 
 
 - 👀 This is just an intro of my various projects carried out, there are many others where you can clone them and try them locally!
