@@ -29,6 +29,17 @@ https://lb-playpark.netlify.app/ </h4><hr>
 [https://lb-playpark.netlify.app/ ](https://foodmine-yjri.onrender.com/ </h4><hr>
 
 
+<h2>7:  Node.js-Travel| Node.js-Express| Look at the code:  https://github.com/luigibuono/Node.js-Travel.git </h2>
+
+
+<h2>8: Progetto JavaFood | Java-Maven| Look at the code:  https://github.com/luigibuono/ProgettoJava-Food.git </h2>
+
+
+<h2>9: Football-Spring| Java-Spring-Boot-SpringToolSuite4| Look at the code:  https://github.com/luigibuono/Football-Spring.git </h2>
+
+
+<h2>10: Digital-Address-Book| MEAN(MongoDB-Express-Angular-Node)| Look at the code:  https://github.com/luigibuono/Digital-Address-Book.git </h2>
+
 
 - 👀 This is just an intro of my various projects carried out, there are many others where you can clone them and try them locally!
 
