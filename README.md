@@ -58,7 +58,7 @@ https://lb-playpark.netlify.app/ </h4><hr>
 
 <h1 align="left">Tech Stack</h1>
 <h2>Check it out and see what my best skills are ⚡⚡⚡</h2>
-
+<h2> Check my cv here : https://www.linkedin.com/in/luigi-buono-/overlay/1713284125094/single-media-viewer/?profileId=ACoAAD-IURgB3_UEdgCpm_QeEr63sw40PXLtiF8 <h2>
 ### Frontend  
 <div align="center">  
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
