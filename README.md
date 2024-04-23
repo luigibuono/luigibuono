@@ -85,7 +85,7 @@ https://lb-playpark.netlify.app/ </h4><hr>
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="URL_DEL_ICONA_POSTMAN" alt="Postman" height="50" /></a>
+<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postman-icon.svg" alt="Postman" height="50" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -95,8 +95,7 @@ https://lb-playpark.netlify.app/ </h4><hr>
 ### Tools
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.sourcetreeapp.com/" target="_blank"><img style="margin: 10px" src="URL_DEL_ICONA_SOURCE_TREE" alt="SourceTree" height="50" /></a>
-<a href="https://winscp.net/eng/index.php" target="_blank"><img style="margin: 10px" src="URL_DEL_ICONA_WINSCP" alt="WinSCP" height="50" /></a>
+
 
 </div>
 
