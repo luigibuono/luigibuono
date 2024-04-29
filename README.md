@@ -45,6 +45,9 @@ https://lb-playpark.netlify.app/ </h4><hr>
 https://lb-ansa-blog.netlify.app/ </h4><hr>
 
 
+<h2>11: Streaming Community| ANGULAR-BOOTSTRAP & Credit for : [https://gnews.io/](https://api.themoviedb.org/3/)  &  https://github.com/JancoBH The Creator, this is only a test of Angular v17| Look at the code:  https://github.com/luigibuono/streamingcommunity.git </h2><h4><b> VISIT THE SITE :</b>
+https://lbstreamingcommunity.netlify.app/ </h4><hr>
+
 - 👀 This is just an intro of my various projects carried out, there are many others where you can clone them and try them locally!
 
 - 👀 I am interested in working as a web developer
