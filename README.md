@@ -26,7 +26,7 @@ https://lb-playpark.netlify.app/ </h4><hr>
 
 
 <h2>6:  E-commerce Food| MEAN(MONGODB-EXPRESS-ANGULAR-NODE)| Look at the code:  https://github.com/luigibuono/E-commerce-Food.git </h2><h4><b> VISIT THE SITE :</b>
-[https://lb-playpark.netlify.app/ ](https://foodmine-yjri.onrender.com/ </h4><hr>
+(https://foodmine-yjri.onrender.com/ </h4><hr>
 
 
 <h2>7:  Node.js-Travel| Node.js-Express| Look at the code:  https://github.com/luigibuono/Node.js-Travel.git </h2><hr>
