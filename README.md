@@ -48,9 +48,10 @@ https://lb-ansa-blog.netlify.app/ </h4><hr>
 <h2>12: Streaming Community| ANGULAR-BOOTSTRAP & Credit for : https://api.themoviedb.org/3/  &  https://github.com/JancoBH The Creator, this is only a test of Angular v17| Look at the code:  https://github.com/luigibuono/streamingcommunity.git </h2><h4><b> VISIT THE SITE :</b>
 https://lbstreamingcommunity.netlify.app/ </h4><hr>
 
-<h2>13: Car_Rental| Angular-SpringBoot - MySQL| Look at the code:  https://github.com/luigibuono/Car_Rental.git </h2><hr><br><br>
+<h2>13: Car_Rental| Angular-SpringBoot - MySQL| Look at the code:  https://github.com/luigibuono/Car_Rental.git </h2><hr><br>
 
 <h2>There are many other sites that you can find within my profile!</h2>
+<br>
 
 
 
