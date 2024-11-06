@@ -50,6 +50,7 @@ https://lbstreamingcommunity.netlify.app/ </h4><hr>
 
 <h2>13: Car_Rental| Angular-SpringBoot - MySQL| Look at the code:  https://github.com/luigibuono/Car_Rental.git </h2><hr><br>
 
+<h2>14: FantaClub | Angular | https://fantaclub.netlify.app/ </h2
 <h2>There are many other sites that you can find within my profile!</h2>
 <br>
 
